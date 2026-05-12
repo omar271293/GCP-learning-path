@@ -1,0 +1,1 @@
+print("ya quedo, mi primer script")
